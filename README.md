@@ -1,6 +1,8 @@
 ## My Mission Is...
 
-Build & Lead Kotlin ecosystem
+1. Programs World Better
+
+2. Build & Lead Kotlin ecosystem
 
 ## Contact
 
